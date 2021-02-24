@@ -1,7 +1,7 @@
 # CV-layout
 <!DOCTYPE html>
 <html>
-<head>
+<head(increase indent)>
  <h1>Resego Maiswe</h1>
    PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG
 </head>
