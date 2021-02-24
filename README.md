@@ -11,6 +11,8 @@
    
   </style>
   <body>
+   <br>
+   <br>
    <aside(left)>
    <header>
           <section id= "Objective">
