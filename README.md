@@ -2,14 +2,16 @@
 <!DOCTYPE html>
 <html>
 <div>
- <head(increase indent)>
- <h1>Resego Maiswe</h1>
+ <head>
+  <style>{
+   border:0px;
+   background-colour:outset red;
+   textalign:center;
+  </style>
+  <h1>Resego Maiswe</h1>
   <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
 </head>
  </div> 
-  <style>
-   
-  </style>
   <body>
    <br>
    <br>
