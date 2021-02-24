@@ -1,57 +1,49 @@
 # CV-layout
 <!DOCTYPE html>
 <html>
-<head(increase indent)>
+<div>
+ <head(increase indent)>
  <h1>Resego Maiswe</h1>
-   PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG
+  <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
 </head>
+ </div> 
   <style>
    
   </style>
   <body>
    <br>
    <br>
-   <div>
     <aside(left)>
    <header>
           <section id= "Objective">
-           Objectives
+           <h3>Objectives</h3>
           </section>  
    </header>
    </aside>
- </div>
- <div>
    <aside(right) 
            <section id= "Experience">
-             Experience
+           <h3>Experience</h3>
            </section>
    </aside>
-  </div> 
    <br>
    <br>
-  <div>
    <aside(left)>
            <section id= "Skills">
-             Skills
+           <h3>Skills</h3>
            </section>
    </aside>
-  </div>
-  <div>
    <aside(right)>
            <section id= "Education">
-             Education
+            <h3> Education<?h3>
            </section>
    </aside>
-  </div>
-  <div>
    <br>
    <br>
    <aside(right)>
            <section id= "Volunteer Experience or Leadership">
-            Volunteer Experience or Leadership
+           <h3>Volunteer Experience or Leadership</h3>
            </section>
    </aside>
-  </div> 
   </body>
 </head>
 </html>
