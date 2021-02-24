@@ -42,7 +42,9 @@
   <body>
    <br>
    <br>
-    <aside(left)>
+    <aside id="Objectives">
+     objectives
+   </aside> 
    <header>
           <section>
           <section id= "Objective">
@@ -53,7 +55,7 @@ Double-click the table cells in the footer to add your contact info (or delete t
           </section>  
    </header>
    </aside>
-   <aside(right)
+   <article>
            <section>      
            <section id= "Experience">
            <h3>Experience</h3>
