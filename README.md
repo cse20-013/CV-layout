@@ -6,7 +6,39 @@
   <h1>Resego Maiswe</h1>
   <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
   </div>
-</head> 
+</head>
+ <style>
+  Header aside#
+  aside#Objectives{
+       width:30%
+       float:left
+       margin-left:8%
+  }
+  Header aside#
+  aside#Experience{
+       width:64%
+       float:right
+       margin-right:8%
+  }
+  Header aside#
+  aside#Skills{
+       width:30%
+       float:left
+       margin-left:8%
+  }
+  Header aside#
+  aside#Education{
+       width:64%
+       float:right
+       margin-left:8%
+  }
+  Header aside
+ aside#Volunteer Experience or Leadership{
+      width:64%
+      float:right
+      margin-left:8%
+  }
+ </style> 
   <body>
    <br>
    <br>
