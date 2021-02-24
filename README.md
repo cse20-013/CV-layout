@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>
  <h1>Resego Maiswe</h1>
-   <br>
    PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG
- </title>
+</head>
   <style>
    
   </style>
