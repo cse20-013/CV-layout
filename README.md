@@ -52,7 +52,16 @@ Double-click the table cells in the footer to add your contact info (or delete t
            </p>
           </section>  
    </header>
-   </aside>
+   
+   <br>  
+   <header>
+           <section id= "Skills">
+           <h3>Skills</h3>
+           <p>Explain what you’re especially good at. What sets you apart? Use your own language—not jargon.</p>          
+           </section>
+   </header>
+ </aside>
+ <aside>
    <article>
            <section>      
            <section id= "Experience">
@@ -65,16 +74,9 @@ JOB TITLE • COMPANY • DATES FROM – TO
 Think about the size of the team you led, the number of projects you balanced, or the number of articles you wrote.</p>
            </section>
            </article>         
-   </aside>
    <br>
    <br>
-   <aside(left)>
-           <section id= "Skills">
-           <h3>Skills</h3>
-           <p>Explain what you’re especially good at. What sets you apart? Use your own language—not jargon.</p>          
-           </section>
-   </aside>
-   <aside(right)>
+   <header>
            <section>
            <section id= "Education">
             <h3> Education<?h3>
@@ -85,16 +87,17 @@ You might want to include your GPA and a summary of relevant coursework, awards,
 DEGREE • DATE EARNED • SCHOOL
 On the Home tab of the ribbon, check out Styles to apply the formatting you need with just a click.</p>
            </section>
-   </aside>
+   </header>
    <br>
    <br>
-   <aside(right)>
+   <header>
            <section>
            <section id= "Volunteer Experience or Leadership">
            <h3>Volunteer Experience or Leadership</h3>
            <p>Did you manage a team for your club, lead a project for your favorite charity, or edit your school newspaper? Go ahead and describe experiences that illustrate your leadership abilities.</p>
            </section>
-   </aside>
+   </header>
+</aside>
   </body>
 </head>
 </html>
