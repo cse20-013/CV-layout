@@ -50,7 +50,7 @@ Think about the size of the team you led, the number of projects you balanced, o
 You might want to include your GPA and a summary of relevant coursework, awards, and honors.
             <br>   
 DEGREE • DATE EARNED • SCHOOL
-On the Home tab of the ribbon, check out Styles to apply the formatting you need with just a click.
+On the Home tab of the ribbon, check out Styles to apply the formatting you need with just a click.</p>
            </section>
    </aside>
    <br>
