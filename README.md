@@ -45,6 +45,7 @@ Think about the size of the team you led, the number of projects you balanced, o
            <section>
            <section id= "Education">
             <h3> Education<?h3>
+            <br>
             <p>DEGREE • DATE EARNED • SCHOOL
 You might want to include your GPA and a summary of relevant coursework, awards, and honors.
             <br>   
