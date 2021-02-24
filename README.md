@@ -23,6 +23,8 @@
              Experience
            </section>
    </aside>
+   <br>
+   <br>
    <aside(left)>
            <section id= "Skills">
              Skills
@@ -33,6 +35,8 @@
              Education
            </section>
    </aside>
+   <br>
+   <br>
    <aside(right)>
            <section id= "Volunteer Experience or Leadership">
             Volunteer Experience or Leadership
