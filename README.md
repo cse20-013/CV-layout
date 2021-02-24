@@ -42,9 +42,7 @@
   <body>
    <br>
    <br>
-    <aside id="Objectives">
-     objectives
-   </aside> 
+    <aside>
    <header>
           <section>
           <section id= "Objective">
@@ -66,6 +64,7 @@ Summarize your key responsibilities, leadership, and most stellar accomplishment
 JOB TITLE • COMPANY • DATES FROM – TO
 Think about the size of the team you led, the number of projects you balanced, or the number of articles you wrote.</p>
            </section>
+           </article>         
    </aside>
    <br>
    <br>
