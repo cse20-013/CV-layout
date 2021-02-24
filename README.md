@@ -1,17 +1,17 @@
 # CV-layout
 <!DOCTYPE html>
 <html>
-<div>
  <head>
+  <div>
   <style>{
    border:0px;
    background-colour:outset red;
-   textalign:center;
+   textalign:center;}
   </style>
   <h1>Resego Maiswe</h1>
   <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
-</head>
- </div> 
+  </div>
+</head> 
   <body>
    <br>
    <br>
