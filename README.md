@@ -52,7 +52,6 @@ Double-click the table cells in the footer to add your contact info (or delete t
            </p>
           </section>  
    </header>
-   
    <br>  
    <header>
            <section id= "Skills">
@@ -75,7 +74,6 @@ Think about the size of the team you led, the number of projects you balanced, o
            </section>
            </article>         
    <br>
-   <br>
    <header>
            <section>
            <section id= "Education">
@@ -88,7 +86,6 @@ DEGREE • DATE EARNED • SCHOOL
 On the Home tab of the ribbon, check out Styles to apply the formatting you need with just a click.</p>
            </section>
    </header>
-   <br>
    <br>
    <header>
            <section>
