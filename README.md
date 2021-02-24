@@ -8,32 +8,32 @@
   </div>
 </head>
  <style>
-  Header aside#
-  aside#Objectives{
+  Header section#
+  section#Objectives{
        width:30%
        float:left
        margin-left:8%
   }
-  Header aside#
-  aside#Experience{
+  Header section#
+  section#Experience{
        width:64%
        float:right
        margin-right:8%
   }
-  Header aside#
-  aside#Skills{
+  Header section#
+  section#Skills{
        width:30%
        float:left
        margin-left:8%
   }
-  Header aside#
-  aside#Education{
+  Header section#
+  section#Education{
        width:64%
        float:right
        margin-left:8%
   }
-  Header aside
- aside#Volunteer Experience or Leadership{
+  Header section#
+ section#Volunteer Experience or Leadership{
       width:64%
       float:right
       margin-left:8%
