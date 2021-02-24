@@ -38,6 +38,11 @@
       float:right
       margin-left:8%
   }
+  aside#related{
+      float:left
+      width:30%
+      clear:right
+  }
  </style> 
   <body>
    <br>
