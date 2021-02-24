@@ -42,6 +42,7 @@ Think about the size of the team you led, the number of projects you balanced, o
            </section>
    </aside>
    <aside(right)>
+           <section>
            <section id= "Education">
             <h3> Education<?h3>
             <p>DEGREE • DATE EARNED • SCHOOL
@@ -49,12 +50,12 @@ You might want to include your GPA and a summary of relevant coursework, awards,
             <br>   
 DEGREE • DATE EARNED • SCHOOL
 On the Home tab of the ribbon, check out Styles to apply the formatting you need with just a click.
-
            </section>
    </aside>
    <br>
    <br>
    <aside(right)>
+           <section>
            <section id= "Volunteer Experience or Leadership">
            <h3>Volunteer Experience or Leadership</h3>
            <p>Did you manage a team for your club, lead a project for your favorite charity, or edit your school newspaper? Go ahead and describe experiences that illustrate your leadership abilities.</p>
