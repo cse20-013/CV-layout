@@ -3,11 +3,6 @@
 <html>
  <head>
   <div>
-  <style>{
-   border:0px;
-   background-colour:outset red;
-   textalign:center;}
-  </style>
   <h1>Resego Maiswe</h1>
   <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
   </div>
@@ -17,6 +12,7 @@
    <br>
     <aside(left)>
    <header>
+          <section>
           <section id= "Objective">
            <h3>Objectives</h3>
            <p>To get started, click placeholder text and start typing. Be brief: one or two sentences.
@@ -25,15 +21,16 @@ Double-click the table cells in the footer to add your contact info (or delete t
           </section>  
    </header>
    </aside>
-   <aside(right) 
+   <aside(right)
+           <section>      
            <section id= "Experience">
            <h3>Experience</h3>
+            <br>
            <p>JOB TITLE • COMPANY • DATES FROM – TO
 Summarize your key responsibilities, leadership, and most stellar accomplishments.  Don’t list everything; keep it relevant and include data that shows the impact you made.
             <br>
 JOB TITLE • COMPANY • DATES FROM – TO
 Think about the size of the team you led, the number of projects you balanced, or the number of articles you wrote.</p>
-            
            </section>
    </aside>
    <br>
