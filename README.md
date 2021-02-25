@@ -8,40 +8,49 @@
   </div>
 </head>
  <style>
+  Header# section{
+       margin-left:2%
+       clear:left;
+       clear:right;
+       background: #FFFFFF
+       width:80%;
+       float:center;
+       height:100px;
+  }
   Header section#
   section#Objectives{
-       width:30%
-       float:left
-       margin-left:8%
+       width:30%;
+       float:left;
+       margin-left:8%;
   }
   Header section#
   section#Experience{
-       width:64%
-       float:right
-       margin-right:8%
+       width:64%;
+       float:right;
+       margin-right:8%;
   }
   Header section#
   section#Skills{
-       width:30%
-       float:left
-       margin-left:8%
+       width:30%;
+       float:left;
+       margin-left:8%;
   }
   Header section#
   section#Education{
-       width:64%
-       float:right
-       margin-left:8%
+       width:64%;
+       float:right;
+       margin-left:8%;
   }
   Header section#
  section#Volunteer Experience or Leadership{
-      width:64%
-      float:right
-      margin-left:8%
+      width:64%;
+      float:right;
+      margin-left:8%;
   }
   aside#related{
-      float:left
-      width:30%
-      clear:right
+      float:left;
+      width:30%;
+      clear:right;
   }
  </style> 
   <body>
