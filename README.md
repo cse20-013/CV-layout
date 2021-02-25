@@ -1,12 +1,14 @@
 # CV-layout
 <!DOCTYPE html>
 <html>
- <head>
-  <div>
+  <div id="container">
+   <header>
+    <section id="profile">
   <h1>Resego Maiswe</h1>
   <h4>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG</h4>
+    </section>
+   </header> 
   </div>
-</head>
  <style>
   Header# section{
        margin-left:2%
@@ -16,6 +18,7 @@
        width:80%;
        float:center;
        height:100px;
+       text-align:rigtht;
   }
   Header section#
   section#Objectives{
